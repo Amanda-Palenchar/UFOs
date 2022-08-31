@@ -4,9 +4,13 @@
 This project utilizes HTML and JavaScript to create a website displaying UFO sitings. Filters were added for date, city, state, country, and shape, so that the user could more easily drill down on the exact types of instances they wanted to see. 
 
 ## Results
-In order to perform a search, the user may add a filter to any of the available fields (date, city, state, country, and/or shape) and press enter/return on their keyboard. Doing this will filter the instances for those specific fields. 
+In order to perform a search, the user may add a filter to any of the available fields (date, city, state, country, and/or shape) and press enter/return on their keyboard. Doing this will filter the instances for those specific fields. The screenshots below depict the website before filtering and the website after filtering for instances that happened in Benton via the city field filter. 
 
-ADD SCREENSHOTS HERE.
+### UFO Website
+![UFO_website](UFO_website.png)
+
+### Filtered UFO Website (for Benton)
+![UFO_website_filtered](UFO_website_filtered.png)
 
 ## Summary
 This design could be improved by taking into account the user experience. Below are several possible editions that would transform the user experience on this page:
